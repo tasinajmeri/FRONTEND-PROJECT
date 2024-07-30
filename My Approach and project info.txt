@@ -1,0 +1,26 @@
+
+CHALLENGES FACED DURING COMPLETING EVERY TASKS:
+
+1. DOG GUESSING GAME:
+
+ Creating a simple interface at the starting was quite easy but the real challenge was to fetch the Api and show random options with a random
+correct option each time the image regenerates and keeping every content of dog game inside one single route was also a bit challenging and yes
+i did take help of google to complete this challenging yet fun task!
+
+2. RHOMBUS :
+   For this one the hardest thing for me was to rotate it at 180 degrees and transforming it while also keeping its shape as a diamond so it took me alot of time to figure out and It also required me to do some google searches as it was a bit challenging for me.
+
+3.DUSTBIN :
+
+  In this task creating the discs and two dustbins were very easy and here i used the react-dnd-html-backend library to implement the drag and drop
+functionalities. for this task the challenging thing was obviously draggin and droping the discs from one bin to another while also changing it's
+color to the corresponding bin's color.
+
+
+OVERALL i have used NextJS 14 to complete this project and i have implemented the required file routing method as stated in project description,
+As of now i only have knowledge of working with frontEnd in React.
+
+
+This project was fun and I am eagerly waiting to know what will be the next process further.
+
+Thanks for the opportunity :)
